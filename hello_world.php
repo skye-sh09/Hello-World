@@ -1,3 +1,5 @@
 <?php
-echo "Hello World!込込second feature a";
+<<<<<<< HEAD
+echo "Hello World!込込second featureb ";
+>>>>>>> fix-B
 ?>
