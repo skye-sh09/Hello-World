@@ -1,5 +1,5 @@
 <?php
 <<<<<<< HEAD
-echo "Hello World!込込second feature b feature-C ";
+echo "Hello World!込込second feature b feature---c ";
 >>>>>>> fix-B
 ?>
